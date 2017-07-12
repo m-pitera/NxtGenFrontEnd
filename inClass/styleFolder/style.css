@@ -8,12 +8,35 @@
 nav{
 	position: absolute;
 	right: 20px;
+	background-color: #ff33ff;
 }
 
 body {
-  background-color: orange;
+  /*background-color: orange;*/
 }
 
 nav ul {
 	list-style: none;
+	margin: 0;
+	padding:0;
 }
+
+nav ul li {
+	float: left;
+}
+
+nav ul li:hover {
+	background-color: yellow;
+}
+
+nav ul li a:hover {
+	color:black;
+}
+
+nav ul li a {
+	display: block;
+	padding: 0 5px;
+	text-decoration: none;
+	color:white;
+}
+

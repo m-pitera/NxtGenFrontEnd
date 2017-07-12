@@ -5,6 +5,15 @@
   font-size: 60x;
 }
 
+nav{
+	position: absolute;
+	right: 20px;
+}
+
 body {
   background-color: orange;
+}
+
+nav ul {
+	list-style: none;
 }

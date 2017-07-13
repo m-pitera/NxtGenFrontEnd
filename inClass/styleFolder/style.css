@@ -1,13 +1,19 @@
 .greenf {
   color: green;
 }
-#red{
-  font-size: 60x;
+/*#red{
+  font-size: x;
+}*/
+
+#sidebar {
+  font-size: 60px;
+  /*padding: 15px;*/
 }
 
 nav{
-	position: absolute;
-	right: 20px;
+	position: fixed;
+	left: 20px;
+	top: 50%;
 	background-color: #ff33ff;
 }
 
@@ -22,7 +28,7 @@ nav ul {
 }
 
 nav ul li {
-	float: left;
+	/*float: left;*/
 }
 
 nav ul li:hover {

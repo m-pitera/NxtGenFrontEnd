@@ -1,0 +1,8 @@
+Notes:
+
+Anton's site:
+	tru responsiv
+	media query
+		if window size x.1, then apply y.1 css code
+		if window size x.2, then apply y.2 css code
+	using percents to change the size of imgs and dif tables and formats
